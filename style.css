@@ -1,0 +1,26 @@
+/* CSS */
+  
+.row {
+    display: flex;  
+  }
+  .col {
+    flex: 1;
+    background-color: paleturquoise;
+    padding: 20px;
+    margin: 10px;
+  }
+
+.col-2 {
+    flex: 2;
+    padding: 20px;
+    margin: 10px;
+    background-color: paleturquoise;
+}
+
+.col-3 {
+    flex: 3;
+    padding: 20px;
+    margin: 10px;
+    background-color: paleturquoise;
+
+}
